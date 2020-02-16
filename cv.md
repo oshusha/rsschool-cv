@@ -1,11 +1,14 @@
 #CV
-##Anastasia Oshurkova
-##Junior Frontend Developer
-How can you contact me?  
+
+##**Anastasia Oshurkova**
+
+##**Junior Frontend Developer**
+
+__How can you contact me?__
 - Telegram @oshusha
 - E-mail adoshurkova@gmail.com
 
-####Hello!
+**Hello!**
 
 Thank you for your interest in my resume!
 
@@ -28,6 +31,7 @@ ________________________________________________________________________________
 - WebPack.
 
 You can see my code examples on my *[GitHub: https://github.com/oshusha](https://github.com/oshusha)*
+
 _____________________________________________________________________________________
 **Experience:**
 
@@ -38,6 +42,7 @@ To date, I have completed the following projects:
 - Responsive landing page about travelling in Russia [Project-Russia](https://oshusha.github.io/project-russia/);
 - Landing page about self-learning techniques [Self Study Methods](https://oshusha.github.io/self-study-methods);
 - Landing page for [JSTCK](https://oshusha.github.io/JSTCK/). 
+
 ____________________________________________________________________________________
 **Education:**
 - Yandex.Praktikum (Web-Development);
