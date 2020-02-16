@@ -49,4 +49,4 @@ ________________________________________________________________________________
 - Continuous self-education on popular educational online platforms;
 - Saint Petersburg State Agrarian University (Agrochemistry, soil science and ecology).
 
-**My level of English:** Pre-intermediate.
+**My level of English:** Pre-Intermediate.
