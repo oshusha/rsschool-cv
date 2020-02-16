@@ -1,8 +1,8 @@
-#CV
+# CV
 
-##**Anastasia Oshurkova**
+## **Anastasia Oshurkova**
 
-##**Junior Frontend Developer**
+## **Junior Frontend Developer**
 
 __How can you contact me?__
 - Telegram @oshusha
