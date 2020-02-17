@@ -1,4 +1,6 @@
-https://oshusha.github.io/rsschool-cv/cv
+Проект, выполненный в рамках обучения в RS School
+
+https://oshusha.github.io/rsschool-cv/
 
 ## План развития проекта:
 
