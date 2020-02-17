@@ -1,0 +1,328 @@
+
+.body {
+    margin: 0;
+
+    font-family: "Helvetica", "Arial", sans-serif;
+
+    background: #000000;
+}
+
+
+.page__container {
+    width: 100%;
+    margin: 0 auto;
+    max-width: 1024px;
+    padding: 30px 48px;
+
+    background: #000000;
+}
+
+.content-title {
+    margin: 0 0 30px 0;
+
+    text-align: left;
+    font-size: 24px;
+    line-height: 1.2;
+    font-weight: bolder;
+    color: #FFFFFF;
+}
+
+/*HEADER*/
+
+.header {
+    width: 100%;
+    margin: 0;
+    padding-bottom: 50px;
+
+    background: #000000;
+}
+
+.header__container {
+    max-width: 1024px;
+    width: 100%;
+    min-height: 52px;
+    margin: 0 auto;
+    display: flex;
+}
+
+.header__title {
+    width: 100%;
+    margin: 0;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 2.5em;
+    color: #FFFFFF;
+}
+
+/*CONTACTS*/
+
+.contacts {
+    width: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 50px;
+
+    background: #000000;
+}
+
+.contacts__container {
+    margin: 0;
+    padding: 100px 0 0 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.contacts__title {
+    margin: 0;
+
+    color: #FFFFFF;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 1.2em;
+}
+
+.contacts__subtitle {
+    margin: 0 0 30px 0;
+
+    color: #FFFFFF;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 1.2em;
+}
+
+.contacts__image {
+    width: 640px;
+    height: 640px;
+    margin-right: 30px;
+
+    background-image: url("./images/myPhoto.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 0 0 15px 1px #FFFFFF;
+}
+
+.contacts__list {
+    color: #FFFFFF;
+    text-align: left;
+    font-size: 18px;
+    line-height: 1.2;
+    font-weight: 400;
+    list-style-type: square;
+}
+
+.contacts__item {
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+/*ABOUT*/
+
+.about {
+    width: 100%;
+    margin: 0;
+    padding-top: 30px;
+    padding-bottom: 50px;
+
+    background: #000000;
+}
+
+.about__two-columns {
+    width: 95%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+
+    font-family: 'Inter';
+    font-style: normal;
+    color: #FFFFFF;
+}
+
+
+.about__title {
+    color: #ff3a86;
+    font-size: 48px;
+    text-decoration-line: none;
+}
+
+.about__main-text {
+    width: 70%;
+    min-width: 784px;
+
+    line-height: 34px;
+    font-size: 18px;
+    font-weight: normal;
+}
+.about__paragraph {
+    margin: 15px 0;
+}
+
+.about__paragraph:first-of-type {
+    margin: 0;
+}
+
+.about__paragraph:last-of-type {
+    margin: 0;
+    font-weight: bold;
+}
+
+.about__link {
+    color: #00ffeb;
+    font-size: 28px;
+}
+
+.about__link:hover {
+    color: #FFFFFF;
+    text-shadow: 0 0 15px #FFFFFF;
+}
+
+.about__link:active {
+    color: #ff3a86;
+}
+
+/*STACK*/
+
+.stack {
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+}
+
+.stack__list {
+    padding: 0 0 0 55px;
+    margin: 0;
+
+    list-style-type: square;
+}
+
+.stack__item {
+
+}
+
+.stack-title {
+    width: 175px;
+
+    color: #00ffeb;
+    line-height: 1.2em;
+    font-size: 24px;
+    font-weight: normal;
+    text-align: right;
+    text-shadow: 0 0 15px #FFFFFF;
+    text-decoration-line: none;
+}
+
+/*EXPERIENCE*/
+
+.experience {
+    width: 100%;
+    margin: 0;
+    padding-top: 30px;
+    padding-bottom: 50px;
+
+    background: #000000;
+}
+
+.experience__container {
+    width: 95%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+
+    color: #FFFFFF;
+}
+
+.experience__paragraph {
+    margin: 0;
+
+    font-size: 18px;
+}
+
+.experience__list {
+    list-style-type: none;
+}
+
+.experience__item {
+    color: #FFFFFF;
+}
+
+.experience__link {
+    padding-left: 28px;
+
+    color: #00ffeb;
+    font-size: 22px;
+}
+
+.experience__link:hover {
+    color: #FFFFFF;
+    text-shadow: 0 0 15px #FFFFFF;
+}
+
+.experience__link:active {
+    color: #ff3a86;
+}
+
+/*EDUCATION*/
+.education {
+    width: 100%;
+    margin: 0;
+    padding-top: 30px;
+    padding-bottom: 50px;
+
+    background: #000000;
+}
+
+.education__container {
+    width: 95%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+
+    color: #FFFFFF;
+}
+
+.education__list {
+    margin: 0;
+
+    list-style-type: none;
+}
+
+.education__item {
+
+}
+
+.education__paragraph {
+
+}
+
+.education__accent {
+    padding-right: 18px;
+
+    font-weight: bold;
+}
+
+/*FOOTER*/
+
+.footer {
+    width: 100%;
+    margin: 0;
+
+    background: #000000;
+}
+
+.footer__container {
+    max-width: 1024px;
+    width: 95%;
+    min-height: 23px;
+    margin: 0 auto;
+    padding-top: 100px;
+    padding-bottom: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+
+    font-family: 'Inter';
+    font-style: normal;
+    color: #FFFFFF;
+}
